@@ -1,0 +1,4 @@
+gfortran 00_module.f90 01_quad_system.f90 00_subroutine_gauss_triangular_matrix.f90 00_subroutine_gauss_solution.f90 00_subroutine_cholesky_precondition.f90 00_subroutine_cholesky_triangular_matrix.f90 00_subroutine_cholesky_solution.f90 00_function_laplace_det.f90 00_system_generator.f90 00_gnuplot_2D.f90 00_function_elimination_det.f90
+pause
+a.exe
+pause
